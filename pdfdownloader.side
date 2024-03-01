@@ -1,0 +1,174 @@
+{
+  "id": "1ce894cb-907f-4714-b545-e54c7abef1f3",
+  "version": "2.0",
+  "name": "biharele",
+  "url": "https://nbpdcl.co.in",
+  "tests": [{
+    "id": "4831f3a5-9312-4b14-a3d0-5b18c0f77525",
+    "name": "aq",
+    "commands": [{
+      "id": "2e780c8d-ca45-4008-90a6-d52159c6632d",
+      "comment": "",
+      "command": "open",
+      "target": "/(S(fpeowo4q50oom1boxhfqnilp))/frmhome.aspx",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9df1967e-29ce-4775-9b0f-53f394296b41",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1536x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c905aaeb-9511-44a4-b64b-41dae8240bdd",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Notification",
+      "targets": [
+        ["linkText=Notification", "linkText"],
+        ["css=.selected > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Notification')]", "xpath:link"],
+        ["xpath=//div[@id='ulMenuList']/h3[16]/a", "xpath:idRelative"],
+        ["xpath=//h3[16]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Notification')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "608682a6-f8ca-4785-9639-23e307d0b439",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Notification",
+      "targets": [
+        ["linkText=Notification", "linkText"],
+        ["css=.selected > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Notification')]", "xpath:link"],
+        ["xpath=//div[@id='ulMenuList']/h3[16]/a", "xpath:idRelative"],
+        ["xpath=//h3[16]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Notification')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b76aceeb-8725-4bb0-9ffc-9b4c1c5e35c0",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Circulars",
+      "targets": [
+        ["linkText=Circulars", "linkText"],
+        ["css=.submenu:nth-child(32) > li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Circulars')]", "xpath:link"],
+        ["xpath=//div[@id='ulMenuList']/ul[16]/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'frmDisCirculars.aspx')]", "xpath:href"],
+        ["xpath=//ul[16]/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Circulars')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbb42344-2870-4cf9-9fbf-28a46bfaeec8",
+      "comment": "",
+      "command": "click",
+      "target": "id=MainContent_gdNoticeBoard_lnkSelect_0",
+      "targets": [
+        ["id=MainContent_gdNoticeBoard_lnkSelect_0", "id"],
+        ["linkText=Regarding to the nomination of Sri Binod Prasad, DGM( personnel ) as a Complaint officer for the redressal of grievances/Complaint related to HIV/AIDS infected personnel Vide Office Order No. 1416 and Memo No. 344 Dt. 21/11/2020", "linkText"],
+        ["css=#MainContent_gdNoticeBoard_lnkSelect_0", "css:finder"],
+        ["xpath=//a[contains(text(),'Regarding to the nomination of Sri Binod Prasad, DGM( personnel ) as a Complaint officer for the redressal of grievances/Complaint related to HIV/AIDS infected personnel Vide Office Order No. 1416 and Memo No. 344 Dt. 21/11/2020')]", "xpath:link"],
+        ["xpath=//a[@id='MainContent_gdNoticeBoard_lnkSelect_0']", "xpath:attributes"],
+        ["xpath=//table[@id='MainContent_gdNoticeBoard']/tbody/tr[2]/td[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, \"javascript:__doPostBack('ctl00$MainContent$gdNoticeBoard$ctl02$lnkSelect','')\")]", "xpath:href"],
+        ["xpath=//td[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Regarding to the nomination of Sri Binod Prasad, DGM( personnel ) as a Complaint officer for the redressal of grievances/Complaint related to HIV/AIDS infected personnel Vide Office Order No. 1416 and Memo No. 344 Dt. 21/11/2020')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2223ab6b-2f48-45d7-abe3-20643056c739",
+      "comment": "",
+      "command": "click",
+      "target": "css=div:nth-child(7)",
+      "targets": [
+        ["css=div:nth-child(7)", "css:finder"],
+        ["xpath=//form[@id='form2']/div[3]", "xpath:idRelative"],
+        ["xpath=//div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bd644728-5d2f-4feb-9818-6667b01881e9",
+      "comment": "",
+      "command": "click",
+      "target": "id=MainContent_gdNoticeBoard_lnkSelect_1",
+      "targets": [
+        ["id=MainContent_gdNoticeBoard_lnkSelect_1", "id"],
+        ["linkText=Regarding to the additional charge to Sri Ranjeet Prasad (undersecretary) and Sri Jai Shankar Prasad (undersecretary) for a section N-XVIII vide O.O.No. 1418 , memo no: 290 dated: 21/11/22", "linkText"],
+        ["css=#MainContent_gdNoticeBoard_lnkSelect_1", "css:finder"],
+        ["xpath=//a[contains(text(),'Regarding to the additional charge to Sri Ranjeet Prasad (undersecretary) and Sri Jai Shankar Prasad (undersecretary) for a section N-XVIII vide O.O.No. 1418 , memo no: 290 dated: 21/11/22')]", "xpath:link"],
+        ["xpath=//a[@id='MainContent_gdNoticeBoard_lnkSelect_1']", "xpath:attributes"],
+        ["xpath=//table[@id='MainContent_gdNoticeBoard']/tbody/tr[3]/td[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, \"javascript:__doPostBack('ctl00$MainContent$gdNoticeBoard$ctl03$lnkSelect','')\")]", "xpath:href"],
+        ["xpath=//tr[3]/td[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Regarding to the additional charge to Sri Ranjeet Prasad (undersecretary) and Sri Jai Shankar Prasad (undersecretary) for a section N-XVIII vide O.O.No. 1418 , memo no: 290 dated: 21/11/22')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "71a8fda0-63f8-4115-b04b-d83bfd7eabba",
+      "comment": "",
+      "command": "click",
+      "target": "id=MainContent_gdNoticeBoard_lnkSelect_2",
+      "targets": [
+        ["id=MainContent_gdNoticeBoard_lnkSelect_2", "id"],
+        ["linkText=Regarding to the nomination of JEE(civil) for STF work, in addition of his duty with ESE STF , vide O.O.no: 1246 dated: 14/10/22", "linkText"],
+        ["css=#MainContent_gdNoticeBoard_lnkSelect_2", "css:finder"],
+        ["xpath=//a[contains(text(),'Regarding to the nomination of JEE(civil) for STF work, in addition of his duty with ESE STF , vide O.O.no: 1246 dated: 14/10/22')]", "xpath:link"],
+        ["xpath=//a[@id='MainContent_gdNoticeBoard_lnkSelect_2']", "xpath:attributes"],
+        ["xpath=//table[@id='MainContent_gdNoticeBoard']/tbody/tr[4]/td[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, \"javascript:__doPostBack('ctl00$MainContent$gdNoticeBoard$ctl04$lnkSelect','')\")]", "xpath:href"],
+        ["xpath=//tr[4]/td[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Regarding to the nomination of JEE(civil) for STF work, in addition of his duty with ESE STF , vide O.O.no: 1246 dated: 14/10/22')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc6afa97-7b5f-4937-858c-33ab6f1e6570",
+      "comment": "",
+      "command": "click",
+      "target": "id=MainContent_gdNoticeBoard_lnkSelect_3",
+      "targets": [
+        ["id=MainContent_gdNoticeBoard_lnkSelect_3", "id"],
+        ["linkText=Information Regarding Shri Kuldeep Sharma, Nomination of Nodal Officer for Launch of mob app , GPS based attendance system vide O.Order No-975, Memo no-277, dated-30.08.2022", "linkText"],
+        ["css=#MainContent_gdNoticeBoard_lnkSelect_3", "css:finder"],
+        ["xpath=//a[contains(text(),'Information Regarding Shri Kuldeep Sharma, Nomination of Nodal Officer for Launch of mob app , GPS based attendance system vide O.Order No-975, Memo no-277, dated-30.08.2022')]", "xpath:link"],
+        ["xpath=//a[@id='MainContent_gdNoticeBoard_lnkSelect_3']", "xpath:attributes"],
+        ["xpath=//table[@id='MainContent_gdNoticeBoard']/tbody/tr[5]/td[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, \"javascript:__doPostBack('ctl00$MainContent$gdNoticeBoard$ctl05$lnkSelect','')\")]", "xpath:href"],
+        ["xpath=//tr[5]/td[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Information Regarding Shri Kuldeep Sharma, Nomination of Nodal Officer for Launch of mob app , GPS based attendance system vide O.Order No-975, Memo no-277, dated-30.08.2022')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "93b62e15-8293-4f67-a8a4-f7727a67ff9e",
+      "comment": "",
+      "command": "click",
+      "target": "id=MainContent_gdNoticeBoard_lnkSelect_4",
+      "targets": [
+        ["id=MainContent_gdNoticeBoard_lnkSelect_4", "id"],
+        ["linkText=Regarding nomination of master trainer, nodal officer and member of technical team for \"Har Khet Ko Pani\" program", "linkText"],
+        ["css=#MainContent_gdNoticeBoard_lnkSelect_4", "css:finder"],
+        ["xpath=//a[contains(text(),'Regarding nomination of master trainer, nodal officer and member of technical team for \"Har Khet Ko Pani\" program')]", "xpath:link"],
+        ["xpath=//a[@id='MainContent_gdNoticeBoard_lnkSelect_4']", "xpath:attributes"],
+        ["xpath=//table[@id='MainContent_gdNoticeBoard']/tbody/tr[6]/td[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, \"javascript:__doPostBack('ctl00$MainContent$gdNoticeBoard$ctl06$lnkSelect','')\")]", "xpath:href"],
+        ["xpath=//tr[6]/td[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Regarding nomination of master trainer, nodal officer and member of technical team for \"Har Khet Ko Pani\" program')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6a024903-dd86-4ea7-bc53-a8dc8e5bd72c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4831f3a5-9312-4b14-a3d0-5b18c0f77525"]
+  }],
+  "urls": ["https://nbpdcl.co.in/"],
+  "plugins": []
+}
